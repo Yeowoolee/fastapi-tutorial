@@ -124,7 +124,7 @@ venv.bak/
 /site
 
 # mypy
-.mypy_cache/
+mypy_cache/
 .dmypy.json
 dmypy.json
 
@@ -137,4 +137,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 .vscode/
-.stocks.db/
+stocks.db
